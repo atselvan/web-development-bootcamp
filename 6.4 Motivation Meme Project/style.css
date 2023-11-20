@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+
+/*  
+  Hint: You horizontally center a div by giving it a width of 50% and a margin-left of 25%.
+  Hint: Set the image to have a width of 100% so it fills the div. 
+*/
+.motivation {
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+
+.motivation img {
+    border: 5px solid white;
+    width: 100%;
+}
+
+.motivation h1 {
+    text-transform: uppercase;
+}
